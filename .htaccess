@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^([^/\.]+)/?$ main.php?p=$1 [L]
+RewriteRule ^shell/([^/\.]+)/?$ shell/index.php?cmd=$1 [L]

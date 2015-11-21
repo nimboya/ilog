@@ -1,0 +1,10 @@
+[2015-08-11 09:57]Connect failed: %s
+
+[2015-08-11 09:57]Connect failed: %s
+
+[2015-08-11 09:58]Connect failed: %s
+
+[2015-09-12 09:39]Connect failed: %s
+
+[2015-09-12 09:39]Connect failed: %s
+
